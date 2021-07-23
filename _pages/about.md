@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ali Nazari"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year undergraduate Computer Engineering student at the [Amirkabir University of Technology (AUT)](https://aut.ac.ir/en). My research interest covers natural language processing (NLP), deep learning, machine learning, recommender systems, and information retrieval.
+I am a 4th-year undergraduate Computer Engineering student at the [Amirkabir University of Technology (AUT)](https://aut.ac.ir/en), where I was the Chairman of [CEIT's Students' Scientific Chapter](https://github.com/CEIT-SSC). Also, I am currently a data scientist at [Bale Messenger](https://bale.ai/).
+
+
+Research Interests
+------ 
+* Natural Language Processing (NLP)  
+* Deep Learning  
+* Machine Learning  
+* Recommender Systems  
+* Information Retrieval  
+* Data Mining
 
 <!-- Getting started
 ======

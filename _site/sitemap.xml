@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://alinazariii.github.io/portfolio/portfolio-1/</loc>
-</url>
-<url>
-<loc>https://alinazariii.github.io/portfolio/portfolio-2/</loc>
-</url>
-<url>
 <loc>https://alinazariii.github.io/posts/2012/08/blog-post-1/</loc>
 <lastmod>2012-08-14T00:00:00-07:00</lastmod>
 </url>
@@ -63,6 +57,12 @@
 <lastmod>2015-01-01T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>https://alinazariii.github.io/works/work-1/</loc>
+</url>
+<url>
+<loc>https://alinazariii.github.io/works/work-2/</loc>
+</url>
+<url>
 <loc>https://alinazariii.github.io/</loc>
 </url>
 <url>
@@ -87,9 +87,6 @@
 <loc>https://alinazariii.github.io/page-archive/</loc>
 </url>
 <url>
-<loc>https://alinazariii.github.io/portfolio/</loc>
-</url>
-<url>
 <loc>https://alinazariii.github.io/publications/</loc>
 </url>
 <url>
@@ -111,10 +108,17 @@
 <loc>https://alinazariii.github.io/terms/</loc>
 </url>
 <url>
+<loc>https://alinazariii.github.io/works/</loc>
+</url>
+<url>
 <loc>https://alinazariii.github.io/year-archive/</loc>
 </url>
 <url>
 <loc>https://alinazariii.github.io/markdown_generator/</loc>
+</url>
+<url>
+<loc>https://alinazariii.github.io/files/CV.pdf</loc>
+<lastmod>2021-07-13T03:44:30-07:00</lastmod>
 </url>
 <url>
 <loc>https://alinazariii.github.io/files/paper1.pdf</loc>

@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Work Experience"
+permalink: /works/
 author_profile: true
 ---
 
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% for post in site.works %}
   {% include archive-single.html %}
 {% endfor %}
 

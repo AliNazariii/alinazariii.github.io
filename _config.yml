@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Nazari / Site Title"
+title                    : "Ali Nazari"
 title_separator          : "-"
 name                     : &name "Ali Nazari"
 description              : &description "personal description"
@@ -83,11 +83,12 @@ author:
   name             : "Ali Nazari"
   avatar           : "profile.png"
   bio              : "Computer Engineering Student"
-  location         : "Tehran"
+  location         : "Tehran, Iran"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  gmail            : "ali4nazari4@gmail.com"
+  email            : "ali.nazari@aut.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -181,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  works:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _works
   - scope:
       path: ""
-      type: portfolio
+      type: works
     values:
       layout: single
       author_profile: true
