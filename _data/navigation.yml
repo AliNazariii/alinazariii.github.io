@@ -12,8 +12,8 @@ main:
   - title: "Skills"
     url: /skills/
 
-  - title: "Honors and Activities"
-    url: /honors/
+  - title: "Others"
+    url: /others/
 
   - title: "CV"
     url: /files/CV.pdf
