@@ -10,25 +10,22 @@ author_profile: true
 <br>
 # Technical Skills
 
-### Data and Machine Learning Tools
-Pandas, Numpy, scikit-learn, Pytorch, Transformers
+### Programming Languages
+Golang, Python (Django), Familiar with JavaScript and TypeScript
 
-### Programming and Scripting Languages
-Python, JavaScript, TypeScript, Java, HTML/CSS/SASS
+### Databases
+Redis, PostgreSQL, Cassandra, MongoDB, Elastic Search
 
-### Web Frameworks and Databases
-ReactJS, Redux, RxJS, NodeJS, Flask, Fastapi, Django, gRPC, SQL, PostgreSQL
+### Message Brokers 
+RabbitMQ, Kafka
 
-### Soft Skills
-Humble, Teamwork, Patience, Accountability, Leadership
+### Miscellaneous 
+Git, Docker, Kubernetes, Helm, Prometheus
 
-### Graphic Design
-Adobe Photoshop, Adobe Illustrator, Adobe XD
+### Soft Skills 
+Teamwork, Critical Thinking, Problem‑solving, Conflict Mitigation
 
-### Operation Systems
-Linux, Windows
-
-### Developer Tools
-Git, Docker
+### Data and Machine Learning Tools 
+Pandas, Numpy, scikit‑learn, Familiar with Pytorch and Tensorflow
 
 

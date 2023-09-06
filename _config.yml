@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ali Nazari"
   avatar           : "profile.png"
-  bio              : "Computer Engineering Student"
+  bio              : ""
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   gmail            : "ali4nazari4@gmail.com"
-  email            : "ali.nazari@aut.ac.ir"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

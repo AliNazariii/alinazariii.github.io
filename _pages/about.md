@@ -8,25 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ali Nazari, and I'm about to graduate with a bachelor's degree in Computer Engineering at the [Amirkabir University of Technology (AUT)](https://aut.ac.ir/en). My thesis recently started, and I'm working on generating Persian poetry using deep neural networks. Before that, I joined our university's natural language understanding (NLU) lab, and I was working on a machine translation project about detecting the meter of Persian poems. I achieved outstanding results, and I plan to publish them soon. Besides my academic efforts, I have some industrial experiences too. Previously, I was a software developer, but now I work as a machine learning engineer in [Bale Messenger](https://bale.ai/). I'm responsible for designing and developing a chatbot to answer our customers' financial questions automatically.
+I'm Ali Nazari, a Computer Engineering graduate from [Amirkabir University of Technology (AUT)](https://en.wikipedia.org/wiki/Amirkabir_University_of_Technology) in Tehran, Iran. My profound passion for technology, research, and problem-solving has driven me to explore various facets of computer science, ranging from software engineering and machine learning to deep learning and computer networks.
+
+Throughout my academic journey, I delved into diverse research areas, including mobile network optimization techniques and the development of drive test solutions. Furthermore, I immersed myself in the intricate world of Persian poetry, where I meticulously curated datasets, designed models for Persian poem [meter](https://en.wikipedia.org/wiki/Persian_metres) detection, and even ventured into the realm of Persian poetry generation using deep neural networks.
+
+In my professional career, I've been fortunate to engage in stimulating projects, tackling large-scale [messaging applications](https://www.linkedin.com/company/balemessenger/) with complex system challenges and contributing to the innovation of [Divar](https://www.linkedin.com/company/divarofficial/), Iran's premier online classified ads platform, aimed at enhancing user experiences.
+
+With a robust foundation in programming, data analysis, critical thinking, and an unwavering commitment to staying on the cutting edge of technology, I am enthusiastic about continuing my journey of exploration and innovation within the dynamic field of computer science.
+
+Beyond my technical prowess, I hold a strong dedication to knowledge sharing and community engagement. My leadership role as the Chairman of the [Students' Scientific Chapter of CE department of AUT](https://github.com/CEIT-SSC) allowed me to organize an array of educational events, fostering a vibrant culture of learning and collaboration.
 
 <hr>
 # Education
 
-## [Amirkabir University of Technology](https://aut.ac.ir/en) - Tehran, Iran
+## [Amirkabir University of Technology](https://en.wikipedia.org/wiki/Amirkabir_University_of_Technology) - Tehran, Iran
 
-B.Sc. Computer Engineering (GPA: 3.53/4) - (Oct. 2017 - Dec. 2021 (Expected))  
-Thesis (Recently started): Persian Poetry Generation using Deep Neural Networks
+B.Sc. Computer Engineering (GPA: 3.55/4) - (Oct. 2017 - Apr. 2022)  
+Thesis: Persian Poetry Generation using Deep Neural Networks (Supervised by [Dr. Zeinali](https://scholar.google.com/citations?user=KaGpFx8AAAAJ))
 
 ## [Alborz High School](https://en.wikipedia.org/wiki/Alborz_High_School) - Tehran, Iran
 
 Mathematics (GPA: 19.86/20) - (Aug. 2013 -- Sept. 2017)
-
-## Research Interests
-
-- Natural Language Processing (NLP)
-- Deep Learning
-- Machine Learning
-- Recommender Systems
-- Information Retrieval
-- Data Mining

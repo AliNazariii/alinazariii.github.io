@@ -7,7 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-## [Digikala Sentiment Analysis](https://github.com/AliNazariii/Digikala-Sentiment-Analysis)
+
+## Persian Poetry Generator
+
+[Dr. Zeinali](https://scholar.google.com/citations?user=KaGpFx8AAAAJ) (Nov. 2021 – Apr. 2022)
+
+- Designed and developed a system for generating Persian poems inspired by the styles of classical Iranian poets like Hafez and Sa’di
+- Fine‑tuned Generative Pre‑trained Transformer 2 (GPT‑2) to learn the art of poem generation
+
+## [Message Broker](https://github.com/AliNazariii/message-broker)
+
+- Implemented a scalable and highly available message broker system with Golang, supporting message management and routing between diverse clients
+- Leveraged Postgresql and Cassandra for robust data persistence, ensuring secure storage and efficient retrieval
+- Enhanced system monitoring and performance insights through the incorporation of basic logs and Prometheus metrics, allowing for rapid issue identification and resolution
+
+
+<!-- ## [Digikala Sentiment Analysis](https://github.com/AliNazariii/Digikala-Sentiment-Analysis)
 
 NLP, Deep Learning, LSTM (Summer 2021)
 
@@ -80,4 +95,4 @@ Spring 2020
 
 Fall 2019
 
-- [Restaurant Manager Application](https://github.com/AliNazariii/Restaurant-Manager)
+- [Restaurant Manager Application](https://github.com/AliNazariii/Restaurant-Manager) -->

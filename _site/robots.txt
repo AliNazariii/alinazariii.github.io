@@ -1,1 +1,1 @@
-Sitemap: http://ali-nazari.ir/sitemap.xml
+Sitemap: https://alinazariii.github.io/sitemap.xml

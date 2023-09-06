@@ -7,29 +7,34 @@ author_profile: true
 
 {% include base_path %}
 
-## Machine Learning Engineer
+## Software Engineer
 
-[Bale Messenger (A Social Payment Platform)](https://bale.ai/) - Tehran, Iran (Mar. 2021 -- Present)
+[Divar](https://www.linkedin.com/company/divarofficial/) - Tehran, Iran (Nov. 2022 -- Present)
 
-- Research, design, and develop a service to answer customers' questions in an e-banking platform
-- Provide a classification service to classify Persian questions with different word embeddings like BERT and Fasttext
-- Develop a service to find similar questions using both deep learning and retrieval methods
-- Participate in designing a recommender system to recommend channels in a messenger
-- Core member of data science chapter
+- Contributed to Divar, Iran’s leading horizontal classified ads platform, catering to over 25 million users and featuring 500,000+ daily ads
+- Maintained a high‑performance microservice responsible for suggesting similar ads to users, achieving 4,000+ requests per second and ensuring 99.99% uptime
+- Designed and developed an innovative vector‑based search engine, transforming ad representations and enhancing search result accuracy
+- Implemented a robust user penalization system to mitigate fraudulent content, safeguarding the platform’s integrity
+- Spearheaded the creation of multiple ad review pipelines, optimizing ad quality and enhancing user experience
+- Collaborated closely with data scientists to create an image duplication detection system, bolstering the platform’s content verification capabilities
 
-## Software Developer
+## Software Engineer
 
-[Bale Messenger (A Social Payment Platform)](https://bale.ai/) - Tehran, Iran (Aug. 2020 -- Mar. 2021)
+[Bale Messenger](https://www.linkedin.com/company/balemessenger/) - Tehran, Iran (Aug. 2020 -- Nov. 2022)
 
-- Developed a new reactive web application with an MVI (Model-View-Intent) architecture
-- Contributed as a core member of [new Bale messenger client](https://web.bale.ai/) which implemented in TypeScript
-- Used modern front-end technologies like ReactJS, RxJS, Redux, ...
+- Designed, developed, and maintained a robust event‑sourcing service for an Iranian messenger platform with 5M+ users, handling messaging events across Redis, PostgreSQL, and Cassandra at 2,000+ requests per second and ensuring 99.99% uptime
+- Implemented caching for reduced API latency, boosting system performance
+- Utilized cloud technologies (Helm, Kubernetes, Docker) for agile deployments
+- Proactively managed critical incidents to ensure high service availability
+- Created a staging environment for streamlined development and testing
+- Contributed to hiring 25+ software engineers and mentored junior team members
+- Collaborated with data scientists to develop chatbots for efficient customer support
 
 <br>
 # Teaching Experiences
 
-## Teaching Assistant - Software Engineering II (Fall 2021)
+## Teaching Assistant - Software Engineering II (Fall 2021) - [Dr. Taromirad](https://www.linkedin.com/in/masoumeh-taromirad)
 Coordinating the team, designing projects, and grading assignments
 
-## Teaching Assistant - [Principles of Computer Programming lab](https://github.com/aut-ce/CE102-C-Lab) (Fall 2020)
+## Teaching Assistant - [Principles of Computer Programming lab](https://github.com/aut-ce/CE102-C-Lab) (Fall 2020) - [Dr. Bakhshi](https://www.linkedin.com/in/bahador-bakhshi-242b9731/)
 Participate in designing laboratory materials
